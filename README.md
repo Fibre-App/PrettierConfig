@@ -1,0 +1,2 @@
+# PrettierConfig
+Fibre prettier config.
