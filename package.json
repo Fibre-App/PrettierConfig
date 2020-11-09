@@ -1,0 +1,16 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "Fibre Prettier configuration.",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fibre-SCM/PrettierConfig.git"
+  },
+  "author": "Fibre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fibre-SCM/PrettierConfig/issues"
+  },
+  "homepage": "https://github.com/Fibre-SCM/PrettierConfig#readme"
+}
