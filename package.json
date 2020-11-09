@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/Fibre-SCM/PrettierConfig.git"
   },
+  "scripts": {
+    "release": "npm publish --scope=@fibre --access public"
+  },
   "author": "Fibre",
   "license": "ISC",
   "bugs": {
