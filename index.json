@@ -3,6 +3,5 @@
   "printWidth": 100,
   "arrowParens": "avoid",
   "singleQuote": false,
-  "trailingComma": "none",
-  "pluginSearchDirs": ["node_modules"]
+  "trailingComma": "none"
 }
