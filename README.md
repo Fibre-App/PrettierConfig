@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ npm install -D git+https://github.com/fibre-scm/PrettierConfig.git
+$ npm install -D @fibre/prettier-config
 ```
 
 **Edit `package.json`**:
